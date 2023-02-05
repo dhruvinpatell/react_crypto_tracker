@@ -1,0 +1,29 @@
+{
+  "comments": [
+    {
+      "id": "btc",
+      "comment": [
+        {
+          "text": "heyy",
+          "created_by": "Smit Gol",
+          "date": "28/8/2022"
+        },
+        {
+          "text": "i am trader and software engineer",
+          "created_by": "Smit Gol",
+          "date": "28/8/2022"
+        }
+      ]
+    },
+    {
+      "id": "eth",
+      "comment": [
+        {
+          "text": "buy eth at 1300",
+          "created_by": "19BECE3OO5O",
+          "date": "5/2/2023"
+        }
+      ]
+    }
+  ]
+}
